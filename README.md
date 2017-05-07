@@ -1,7 +1,8 @@
 # VolcaSampleCheatsheet
 Handy cheatsheet for all the known hidden functions of the Korg Volca Sample
----
+
 ![Volca Sample Cheatsheet sticker / label](/volcasamplecheatsheet.jpg?raw=true "Volca Sample Cheatsheet")
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Made a handy cheatsheet of all the known hidden settings and functions for the <a href="https://twitter.com/hashtag/Korg?src=hash">#Korg</a> <a href="https://twitter.com/hashtag/Volca?src=hash">#Volca</a> <a href="https://twitter.com/hashtag/Sample?src=hash">#Sample</a> using a <a href="https://twitter.com/hashtag/Brother?src=hash">#Brother</a> <a href="https://twitter.com/hashtag/PTouch?src=hash">#PTouch</a> labeler <a href="https://t.co/gR5okr2e30">pic.twitter.com/gR5okr2e30</a></p>&mdash; Daniel W. Lu (@dandydanny) <a href="https://twitter.com/dandydanny/status/860916582691741696">May 6, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 As seen on https://twitter.com/dandydanny/status/860916582691741696
