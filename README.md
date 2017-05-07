@@ -37,4 +37,7 @@ As seen on https://twitter.com/dandydanny/status/860916582691741696
 ### Label Printer Info
 * Brother Model PT-2730
 * Brother P-Touch Editor Version 5.1.108 running on macOS Sierra 10.12.4
+* Fonts used:
+  * Helvetica Neue
+  * Arial Narrow
 
