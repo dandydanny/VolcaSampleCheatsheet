@@ -12,8 +12,9 @@ As seen on https://twitter.com/dandydanny/status/860916582691741696
 
 #### 1. MUTE + POWER
   * Sample delete
-    * \> Mark for deletion
-    * < Unmark
+    * REVERB (PART \>) Mark current sample for deletion
+    * REVERSE (PART <) Unmark
+    * ● To execute deletion
 
 #### 2. FUNC + MEMORY + POWER
   * Restore factory sequence
@@ -44,4 +45,5 @@ As seen on https://twitter.com/dandydanny/status/860916582691741696
 * Fonts used:
   * Helvetica Neue
   * Arial Narrow
+  * Subsitute with any sans-serif font should not cause any major layout issues
 
