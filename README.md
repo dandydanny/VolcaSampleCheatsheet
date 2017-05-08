@@ -8,9 +8,18 @@ Handy cheatsheet for all the known hidden functions of the Korg Volca Sample
 As seen on https://twitter.com/dandydanny/status/860916582691741696
 
 
-### Settings Covered
+### Settings Covered in This Label
 
-1.  FUNC + Power: Settings
+#### 1. MUTE + POWER
+  * Sample delete
+    * \> Mark for deletion
+    * < Unmark
+
+#### 2. FUNC + MEMORY + POWER
+  * Restore factory sequence
+#### 3. ● + POWER
+  * Display firmware version
+#### 4.  FUNC + Power: Settings
 
 | Settings 						| LED On 		| LED Off |
 | ----------------------------- | ------------- | ------- |
@@ -23,15 +32,9 @@ As seen on https://twitter.com/dandydanny/status/860916582691741696
 | 7. MIDI RX short message		| On*			| Off |
 | 8. Sync I/O unit				| Once/Step		| Once/2 Steps* |
 
-\* Default
+\* Denotes default setting
 
-2. MUTE + POWER				SAMPLE DELETE: > MARK FOR DELETION, < UNMARK
-
-3. FUNC + MEMORY + POWER 		RESTORE FACTORY SEQUENCE
-
-4. ● + POWER 					DISPLAY FIRMWARE VERSION
-
-● TO COMMIT & SAVE, ▶ TO CANCEL
+● To Commit & Save, ▶ Cancel and return to normal operation
 
 
 ### Label Printer Info
