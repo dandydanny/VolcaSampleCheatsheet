@@ -1,4 +1,5 @@
-# VolcaSampleCheatsheet
+Volca Sample Cheatsheet
+=========================
 Handy cheatsheet for all the known hidden functions of the Korg Volca Sample
 
 ![Volca Sample Cheatsheet sticker / label](/volcasamplecheatsheet.jpg?raw=true "Volca Sample Cheatsheet")
